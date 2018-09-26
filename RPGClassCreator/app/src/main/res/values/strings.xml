@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">436_proj2</string>
+
+    <string-array name="Professions">
+        <item>Warrior</item>
+        <item>Mage</item>
+        <item>Healer</item>
+        <item>Hunter</item>
+        <item>Paladin</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
